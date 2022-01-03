@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @abhatfnal
-- 👀 I’m interested in data analysis using C++ and python
-- 🌱 I’m currently learning lots of things
-- 💞️ I’m looking to collaborate on nEXO, EXO and MicroBooNE
+- 👋 Hi, I’m Avinay Bhat. I work as a postdoctoral research associate and data scientist at the Yale Unversity Physics Department.
+- 👀 I’m interested in data analysis, machine learning, data visualization using C++ and python
+- 🌱 I’m always learning new things and new tools that make data analysis and predicting easier and fun.
 - 📫 You can reach me at avinay.bhat@yale.edu
 
 <!---
